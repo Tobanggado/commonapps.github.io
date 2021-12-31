@@ -1,5 +1,5 @@
-layout: page
+layout: pages
 title: "SOME NEW ARTICLE"
-permalink: /page/
+permalink: /pages/
 
 theme: jekyll-theme-architect
